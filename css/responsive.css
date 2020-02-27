@@ -26,6 +26,17 @@
         width: 13rem;
     }
 
+    .login .input {
+        width: 19em;
+        /* float: left; */
+        margin:auto;
+    }
+
+    .contact form button, .contact form input, .contact form textarea {
+        width: 17em;
+        padding: 1em;
+        border: 1px solid #c9e6ff;
+    }
 }
 
 
@@ -62,7 +73,22 @@
         width: 20rem;
         margin: 5%;
     }
+
+    .login .input {
+        width: 19.4em;
+        margin: 5px;
+        padding: 1em;
+        border: 1px solid #c9e6ff;
+    }
+    .contact form button, .contact form input, .contact form textarea {
+        width: 17em;
+        padding: 1em;
+        margin-left: 0.3em;
+        border: 1px solid #c9e6ff;
+    }
 }
+    
+
 
 
 
